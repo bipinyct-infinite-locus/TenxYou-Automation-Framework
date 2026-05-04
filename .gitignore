@@ -1,0 +1,13 @@
+node_modules/
+dist/
+reports/
+allure-results/
+allure-report/
+playwright-report/
+test-results/
+.env.local
+auth/storageState.json
+crawl/
+*.png
+*.mp4
+*.zip
