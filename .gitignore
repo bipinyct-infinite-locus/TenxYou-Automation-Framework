@@ -5,9 +5,14 @@ allure-results/
 allure-report/
 playwright-report/
 test-results/
+.env
 .env.local
 auth/storageState.json
 crawl/
 *.png
 *.mp4
 *.zip
+.claude/
+.vscode/
+SKILL.md
+docs/
